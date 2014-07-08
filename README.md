@@ -1,4 +1,4 @@
-DomainEnsureAPI
+Domain Ensure API
 ===============
 
 Updates on the Domain Ensure API Access
